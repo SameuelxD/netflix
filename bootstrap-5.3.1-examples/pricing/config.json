@@ -9,8 +9,34 @@
     "section":{
         "title": "Plans and Features",
         "paragraph":"Select the ideal plan for   you , See all you want , No ads , Exclusive recommendations for you , You can change plans or cancel whenever you want."
+    },
+
+    "plans":{
+        "title1":"Basic",
+        "title2":"Standard",
+        "title3":"Premium"
+    },
+    "cards":{
+        "price1":"$16,900",
+        "price2":"$26,900",
+        "price3":"$38,900",
+        "subtitle":" /mo",
+        "quality1":"-Video Quality Good",
+        "quality2":"-Video Quality Better",
+        "quality3":"-Video Quality Optimal",
+        "resolution1":"-Resolution 720p",
+        "resolution2":"-Resolution 1080p",
+        "resolution3":"-Resolution 4K+HDR",
+        "device1":"- You can watch content on 1 compatible device at a time",
+        "device2":"- You can watch content on 2 compatible device at a time",
+        "device3":"-You can watch content on 4 compatible device at a time"
+    },
+    "start":{
+        "buttom":"Get started"
+    },
+    "compare":{
+        "title":"Compare Plans"
     }
-    
 }
 
 
